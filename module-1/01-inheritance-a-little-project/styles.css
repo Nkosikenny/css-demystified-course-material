@@ -3,9 +3,34 @@
     font-family: 'Cinzel', serif;
     font-family: 'PT Serif', serif;
 */
+body{
+  color:#414141;
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+h1{
+  font-family: 'Cinzel', serif;
+  font-size: 6rem;
+  font-weight: 900;
+}
+
+.subtitle{
+  color:#7D7D7D;
+  font-size:2.25rem;
+}
 
 .container {
   width: 90%;
   max-width: 39rem;
   margin: 0 auto;
+}
+
+.lead{
+  font-size: 1.3125rem;
+}
+
+.container a{
+  color:#CA5E10;
 }
